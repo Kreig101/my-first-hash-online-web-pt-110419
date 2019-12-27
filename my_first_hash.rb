@@ -34,7 +34,7 @@ def adding
                   "oil paintings" => 3
                  }
   shipping_manifest["muskets"] = 2    
-  
+  shipping_manifest
                  
                  
                  
